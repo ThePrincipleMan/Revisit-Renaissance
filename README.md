@@ -16,6 +16,6 @@ In this module, I selected six iconic paintings and using Magenta Library of Ten
 
 ![starrynight](https://github.com/ThePrincipleMan/Revisit-Renaissance/blob/main/client/src/images/starrynight.jpg)
 +
-<img src='https://github.com/ThePrincipleMan/Revisit-Renaissance/blob/main/client/src/images/iiit%20pune.jpg' width='200'/>
-
+<img src='https://github.com/ThePrincipleMan/Revisit-Renaissance/blob/main/client/src/images/iiit%20pune.jpg' width='450'/>
+gives us
 ![starrynightiiitpune](https://github.com/ThePrincipleMan/Revisit-Renaissance/blob/main/client/src/images/starrynight-iiitpune.jpg)
