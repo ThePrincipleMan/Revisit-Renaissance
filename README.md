@@ -48,6 +48,7 @@ and more..
 
 ## Tech Stack
 The different frameworks, languages and modules used in the creation of this application are listed below
+
 **Frontend**
 * React
 * React Libraries (React-Router-Dom etc., see packages.json for more)
@@ -67,7 +68,7 @@ The different frameworks, languages and modules used in the creation of this app
 * PIL (pillow)
 
 ## Setup
-Cloning this repository will not make it run on your system. 
+**Cloning this repository will not make it run on your system.** 
 
 I have only uploaded those files which I have updated from the vanila setup. 
 First run *npx create-react-app client* in parent directory. 
