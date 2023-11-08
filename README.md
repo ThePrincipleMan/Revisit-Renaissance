@@ -37,3 +37,43 @@ Furthermore the decision to use LSTMs was due to the fact that LSTMs strike the 
 ![seedinput](https://github.com/ThePrincipleMan/Revisit-Renaissance/blob/main/client/src/images/poem-seed-input.jpg)
 ![generatedpoem](https://github.com/ThePrincipleMan/Revisit-Renaissance/blob/main/client/src/images/generated-poem.jpg)
 
+Thus this the application and its workings.
+
+## Future Scope
+There is tremendous scope for future expansion and improvement of aforementioned application due to its modularity and scalability, which was kept in mind while developing the project
+Some future improvements are - 
+1) Using transformers and LLMs in the Poem Synthesis module to increase accuracy of generated text even further while also adding improved context awareness.
+2) Implementing an Orchestra Creator Module which generates an entire orchestra in the style of the old masters like Back and Mozart.
+and more..
+
+## Tech Stack
+The different frameworks, languages and modules used in the creation of this application are listed below
+**Frontend**
+* React
+* React Libraries (React-Router-Dom etc., see packages.json for more)
+* Javascript
+* HTML+CSS
+
+**Backend**
+* Flask+Python
+* Flask_CORS
+* Pickle
+
+**Machine Learning**
+* Tensorflow
+* Tensorflow_hu
+* Keras
+* Matplotlib , numpy, IO
+* PIL (pillow)
+
+## Setup
+Cloning this repository will not make it run on your system. 
+
+I have only uploaded those files which I have updated from the vanila setup. 
+First run *npx create-react-app client* in parent directory. 
+
+Then create server folder in parent directory and set up a virtual environment in the server folder. 
+Once done, *pip install flask* in the created venv. Also, take this time to pip install other required libraries. 
+
+After that, download the files in their respective folders from the github repo. I have preserved the file structure for this.
+
