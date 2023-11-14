@@ -5,6 +5,10 @@ Revisit Renaissance is a project created with the aim to bridge the gap between 
 
 Thus this project was created to bring awareness and the common man's interest back into art using Generative AI. The aim was also to give basic knowledge about the great masters of art so as to give users a solid base to start exploring further. 
 
+## Video
+Please click on the thumbnail below to see the workings of the application.
+*you will be redirected to an unlisted youtube video*
+
 [![Video](https://img.youtube.com/vi/rqTumXxkIKU/maxresdefault.jpg)](https://www.youtube.com/watch?v=rqTumXxkIKU)
  
 ## Overview
