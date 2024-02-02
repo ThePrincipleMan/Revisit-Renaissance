@@ -84,3 +84,13 @@ Once done, *pip install flask* in the created venv. Also, take this time to pip 
 
 After that, download the files in their respective folders from the github repo. I have preserved the file structure for this.
 
+## Links
+**Image Generation**
+PreTrained Model - https://www.kaggle.com/models/google/arbitrary-image-stylization-v1/frameworks/tensorFlow1/variations/256/versions/2?tfhub-redirect=true
+Various images of Painters and Paintings - Respective Wikipedia Pages
+
+**Poem Generation**
+Shakespeare Model - https://www.kaggle.com/code/theprincipleman/shakespearean-poem-generation
+Robert Frost - https://www.kaggle.com/code/theprincipleman/robert-frost-poem-generation
+Walt Whitman - https://www.kaggle.com/code/theprincipleman/whitman-poem-generator
+Images of Poets - Respective Wikipedia Pages
