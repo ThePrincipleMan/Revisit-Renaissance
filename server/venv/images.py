@@ -55,7 +55,7 @@ def upload_file():
         file_bytes = file.read()
         file_content = BytesIO(file_bytes).readlines()
         d['status'] = 1
-        target = "C:/Users/admin/Desktop/btp/client/src/images/img.jpg"
+        target = "../../client/src/images/img.jpg"
         img.save(target)
         if painter == 'davinci':
             style_image_url = "../../client/src/images/monalisa3.jpg"
