@@ -68,7 +68,7 @@ The different frameworks, languages and modules used in the creation of this app
 
 **Machine Learning**
 * Tensorflow
-* Tensorflow_hu
+* Tensorflow_hub
 * Keras
 * Matplotlib , numpy, IO
 * PIL (pillow)
